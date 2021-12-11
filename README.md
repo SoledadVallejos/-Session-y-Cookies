@@ -6,7 +6,7 @@
 
 - [Descripción y contexto](#descripción-y-contexto)
 - [Autor](#autor)
-- [Script](#script)
+
 
 ## Descripción y contexto
 ---
